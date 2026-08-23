@@ -54,13 +54,4 @@ Note: starter code structures were provided by the university course staff. Core
 
 ## Assignment 8: LeetCode Solutions
 
-* **Problem 1: Two Sum** – Hash map lookup for targeted pair sums in linear time.
-* **Problem 2: Reverse Linked List** – Iterative and recursive pointer manipulation.
-* **Problem 3: Valid Parentheses** – Stack-based evaluation of matching bracket structures.
-* **Problem 4: Merge Two Sorted Lists** – In-place pointer restructuring of sorted linked nodes.
-* **Problem 5: Maximum Subarray** – Dynamic programming using Kadane's algorithm.
-* **Problem 6: Binary Tree Inorder Traversal** – Depth-first tree traversal using recursion and explicit stacks.
-* **Problem 7: Clustered Islands (Number of Islands)** – Matrix-based Breadth-First Search (BFS) / Depth-First Search (DFS) grid exploration.
-* **Problem 8: Search in Rotated Sorted Array** – Modified binary search with rotated pivot logic.
-* **Problem 9: Longest Substring Without Repeating Characters** – Sliding window technique with sliding character sets.
-* **Problem 10: Course Schedule** – Topological sort and cycle detection using Directed Acyclic Graphs (DAGs).
+Solve 10 Problems from Leetcode
