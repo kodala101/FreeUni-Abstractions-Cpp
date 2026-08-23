@@ -54,4 +54,4 @@ Note: starter code structures were provided by the university course staff. Core
 
 ## Assignment 8: LeetCode Solutions
 
-Solve 10 Problems from Leetcode
+* **Solve 10 Problems from Leetcode
